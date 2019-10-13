@@ -25,6 +25,10 @@ if you want to transparent mode, append ...
 g:grayfox_is_transparent = 1
 ```
 
+## Screen Shot
+
+![grayfox](statics/sc.png)
+
 ## License
 
 MIT License. See LICENSE.txt for more information.
