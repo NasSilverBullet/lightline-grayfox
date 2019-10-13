@@ -21,7 +21,7 @@ hook_add = '''
 
 if you want to transparent mode, append ...
 
-```toml
+```vim
 g:grayfox_is_transparent = 1
 ```
 
