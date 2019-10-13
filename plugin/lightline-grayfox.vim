@@ -17,11 +17,7 @@ let s:p = {
 			\ 'visual':   {},
 			\ 'tabline':  {}}
 
-let s:style = exists('g:grayfox_is_transparent')
-			\ ? g:lightline_grayfox_style
-			\ : ''
-
-if existsexists('g:grayfox_is_transparent')
+if exists('g:grayfox_is_transparent')
   s:gray = s:none
 endif
 
